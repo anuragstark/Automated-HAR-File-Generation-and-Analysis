@@ -1,0 +1,11 @@
+=== Status Code Analysis ===
+Total number of requests: 72
+
+Status code category totals:
+2XX responses: 72
+4XX responses: 0
+5XX responses: 0
+
+Detailed status code breakdown:
+Status 200: 71
+Status 206: 1

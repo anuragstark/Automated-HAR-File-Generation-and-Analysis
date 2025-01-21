@@ -1,0 +1,12 @@
+{
+  "total_requests": 72,
+  "status_code_categories": {
+    "2xx_responses": 72,
+    "4xx_responses": 0,
+    "5xx_responses": 0
+  },
+  "detailed_status_codes": {
+    "200": 71,
+    "206": 1
+  }
+}
